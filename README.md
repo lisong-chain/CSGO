@@ -1,2 +1,1 @@
-# sss
-乱七八糟
+CSGO config
