@@ -10,3 +10,12 @@
 ```
 
 
+<a href="https://github.com/pages-themes/architect/zipball/master" class="button">
+              <small>Download</small>
+              .zip file
+            </a>
+
+<a href="https://github.com/pages-themes/architect/tarball/master" class="button">
+              <small>Download</small>
+              .tar.gz file
+            </a>
