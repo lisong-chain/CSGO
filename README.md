@@ -8,3 +8,5 @@ CSGO config
 
 
 游戏中exec 123.cfg就可以
+
+我的steamid  [U:1:473473030]
